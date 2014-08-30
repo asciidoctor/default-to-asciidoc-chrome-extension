@@ -3,6 +3,8 @@ Guillaume Grossetie
 :uri-repo: https://github.com/asciidoctor/default-asciidoc-chrome-extension
 :uri-license: {uri-repo}/blob/master/LICENSE
 
+You love AsciiDoc and you want it to be the default option, this extension is for you!
+
 == Installation
 
 Loading your local copy of the extension on Chrome is super easy:
