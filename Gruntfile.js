@@ -266,7 +266,7 @@ module.exports = function (grunt) {
         options: {
           archive: function () {
             var manifest = grunt.file.readJSON('app/manifest.json');
-            return 'package/default asciidoc chrome extension-' + manifest.version + '.zip';
+            return 'package/default-to-asciidoc-' + manifest.version + '.zip';
           }
         },
         files: [
