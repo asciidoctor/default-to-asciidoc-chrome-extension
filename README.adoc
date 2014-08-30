@@ -1,0 +1,22 @@
+= Default to AsciiDoc Chrome Extension
+Guillaume Grossetie
+:uri-repo: https://github.com/asciidoctor/default-asciidoc-chrome-extension
+:uri-license: {uri-repo}/blob/master/LICENSE
+
+== Installation
+
+Loading your local copy of the extension on Chrome is super easy:
+
+ 1. Check `Developer mode` in `chrome://extensions`
+ 2. Click `Load unpacked extension...` and select the extension `app` directory
+ 3. That's all
+
+To see your changes, click the `Reload (Ctrl+R)` link in `chrome://extensions`.
+If you want to create a `Pack extension` just make a `zip` file of the extension `app` directory.
+
+== Copyright
+
+Copyright (C) 2014 Guillaume Grossetie.
+Free use of this software is granted under the terms of the MIT License.
+
+See the {license}[LICENSE] file for details.
